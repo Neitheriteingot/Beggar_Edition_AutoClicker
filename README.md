@@ -5,7 +5,7 @@ An ultra-lightweight auto-clicking tool that enables automatic continuous left-c
 
 ## Features
 - **Fast Response**: Implemented based on Windows API, ensuring efficient execution of click commands without redundant processing and extremely fast startup.
-- **Concise Design**: The core code consists of only over 70 lines, with focused functionality and no unnecessary modules.
+- **Concise Design**: The core code consists of only over 80 lines, with focused functionality and no unnecessary modules.
 - **Easy Operation**: All operations can be completed via hotkeys, eliminating the need for complex configurations.
 
 ## Operation Instructions
