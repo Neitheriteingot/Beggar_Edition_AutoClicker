@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <windows.h>
-bool is_enabled = false; //状态
-int delay_time = 499; //默认延迟时间500毫秒
+bool is_enabled = false;
+int delay_time = 499;
 void get_time(int&);
 
 void get_time(int& delay_time_ref) 
@@ -67,7 +67,7 @@ int main()
 
         if (is_enabled)
         {
-             mouse_event(MOUSEEVENTF_LEFTDOWN | MOUSEEVENTF_LEFTUP, 0, 0, 0, 0); //当前位置点击一次鼠标
+             mouse_event(MOUSEEVENTF_LEFTDOWN | MOUSEEVENTF_LEFTUP, 0, 0, 0, 0);
              Sleep(delay_time);  
         }
 
