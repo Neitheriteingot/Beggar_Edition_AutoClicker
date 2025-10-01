@@ -13,7 +13,7 @@ An ultra-lightweight auto-clicking tool that enables automatic continuous left-c
 
 ## Operation Instructions
 - **F8 Key**: Toggle auto-clicking state (works in any window)
-- **F10 Key**: Set click delay (use when console is focused; minimum 10ms)
+- **F10 Key**: Set click delay (use when console is focused; minimum 10ms). After entering the delay time, press Enter to continue.
 - **ESC Key**: Exit program (use when console is focused)
 
 ## Working Mechanism
