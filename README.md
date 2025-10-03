@@ -18,3 +18,12 @@ An ultra-lightweight auto-clicking tool that enables automatic continuous left-c
 
 ## Working Mechanism
 When enabled, the program performs automatic left-clicks at the current mouse position, using your set delay time (default 500ms). It runs in a loop until disabled or closed - simple, reliable, and true to its "beggar edition" promise.
+
+## Virus-Free Guarantee
+**This tool contains no malware, viruses, or tracking code. You can:**
+- **Scan it with any mainstream antivirus software (e.g., Windows Defender, Malwarebytes).**  
+- **Check the source code (if provided) to confirm there’s no malicious logic.**  
+**I take full legal responsibility for the safety of this program—no hidden risks.**
+
+## Screenshot
+<img width="979" height="510" alt="screenshot" src="https://github.com/user-attachments/assets/a7a9cb89-3f4f-4728-b5dd-e9b550e2bf08" />
